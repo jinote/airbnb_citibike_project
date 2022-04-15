@@ -1,7 +1,7 @@
 # Airbnb CitiBike Revenue Factor
-- author(s): Mehdi Lahlou Charki, Ahmmed Hossain, Hojin Lee
-- date created: 12/03/2021
-- class: CIS 9440
+- Author(s): Hojin Lee, Mehdi Lahlou Charki, Ahmmed Hossain
+- Date created: 12/03/2021
+- Class: CIS 9440
 
 Project Objective: Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
 
