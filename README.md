@@ -1,5 +1,4 @@
 # Airbnb CitiBike Revenue Factor
-- Author(s): Hojin Lee, Mehdi Lahlou Charki, Ahmmed Hossain
 - Date created: 12/03/2021
 - Class: CIS 9440
 
