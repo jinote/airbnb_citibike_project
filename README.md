@@ -87,7 +87,3 @@ Use correct file path here to show picture of dimensional model...
 **Picture of final Dashboard:**
 
 ![Alt text](https://github.com/jinote/my-projects/blob/main/9440-Project/Dashboard.jpg)
-
-### Deployment
-
-The project was deployed on Tableau Public: https://public.tableau.com/app/profile/mehdi.lahlou.charki/viz/Tableaufinalproject_16383659899150/Dashboard1
